@@ -1,2 +1,2 @@
 # Clap Light
-# If you clap twice, the arduino runs a motor which was used to switch the light on/off
+# After hearing two loud enough consecutive sounds (clapping twice), the Arduino runs a motor which is used to switch the light on/off
